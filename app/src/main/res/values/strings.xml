@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test FCM</string>
+    <string name="quickstart_message">quickstart_message</string>
+    <string name="subscribe_to_news">subscribe_to_news</string>
+    <string name="log_token">log_token</string>
+    <string name="msg_token_fmt" />
+</resources>
